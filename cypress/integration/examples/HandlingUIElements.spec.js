@@ -1,7 +1,4 @@
   /// <reference types="Cypress" />
-  "compilerOptions": {
-    "types": ["cypress"]
-  }
 
   describe('UI Elementst', () => {
   it('Verify Inputbox & Radio buttons', () => {
